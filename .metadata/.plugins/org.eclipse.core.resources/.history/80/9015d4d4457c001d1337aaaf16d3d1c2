@@ -1,0 +1,12 @@
+import javax.swing.*;
+public class Lab_Example602_2 {
+
+	static String[] deptName = {"Accounting","HR","Sales","Innovation"};
+	static boolean validItem = false;
+	public static void main(String[] args) {
+		JOptionPane.showInputDialog("Enter a department name");
+		boolean chkdept = checkItem(itemOrder);
+
+	}
+
+}
