@@ -1,5 +1,5 @@
-Date : 015-Dec-2022
+Date : 22-Dec-2022
 StudentID : 2213111269
 FullName(in English) : Thavesuk Sriintarawanich
 AKA : Juie
-Classdetail : Array in Java
+Classdetail Class and Object, Array of Object
