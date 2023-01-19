@@ -48,6 +48,7 @@ public class CalculateTwoNumber extends JFrame {
 		setBounds(100, 100, 450, 374);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		
 
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
