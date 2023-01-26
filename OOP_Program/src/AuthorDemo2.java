@@ -21,7 +21,9 @@ public class AuthorDemo2 {
 		}
 		
 		System.out.println();
-		
+		for(int i = 0; i<aut.length;i++) {
+			System.out.println((i+1)+aut.ge);
+		}
 
 	}
 
