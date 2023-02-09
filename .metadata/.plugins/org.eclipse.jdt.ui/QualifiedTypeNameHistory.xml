@@ -4,5 +4,14 @@
     <fullyQualifiedTypeName name="java.time.Year"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.awt.JobAttributes"/>
+    <fullyQualifiedTypeName name="Point2D"/>
+    <fullyQualifiedTypeName name="Point3D"/>
+    <fullyQualifiedTypeName name="Product1"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="PattanakarnBranch"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Director"/>
+    <fullyQualifiedTypeName name="Theater"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Movie"/>
 </qualifiedTypeNameHistroy>
